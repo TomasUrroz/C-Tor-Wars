@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1655476573 source:c:\users\hijop\onedrive\escritorio\universidad\1º cuatrimestre 1º año\programación 1\ejercicios\unidad 1\tp1 pilas\menu5\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656515028 source:c:\users\hijop\onedrive\escritorio\universidad\1º cuatrimestre 1º año\programación 1\ejercicios\unidad 1\tp1 pilas\menu5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	<conio.h>
+	<string.h>
+
+1655501307 c:\users\hijop\onedrive\escritorio\universidad\1º cuatrimestre 1º año\programación 1\ejercicios\unidad 1\tp1 pilas\menu5\gotoxy.h
+
+1655476573 source:c:\users\kev\downloads\c tor wars 1.56 (sin tom change)\c tor wars 1.56\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1656617602 source:c:\users\kev\downloads\c tor wars 1.56 (sin tom change)\c tor wars 1.56\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	<conio.h>
+	<string.h>
+
+1655501307 c:\users\kev\downloads\c tor wars 1.56 (sin tom change)\c tor wars 1.56\gotoxy.h
+
+1655476573 source:g:\mi unidad\utn\cuatri 1\programacion\tp final\c-tor wars 1.56 entrega 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668714533 source:g:\mi unidad\utn\cuatri 1\programacion\tp final\c-tor wars 1.56 entrega 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	<conio.h>
+	<string.h>
+
+1655501307 g:\mi unidad\utn\cuatri 1\programacion\tp final\c-tor wars 1.56 entrega 2\gotoxy.h
+
+1667003231 source:c:\users\thomo\my drive\utn\cuatri 1\programacion\tp final\c-tor wars 1.56 entrega 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668714541 source:c:\users\thomo\my drive\utn\cuatri 1\programacion\tp final\c-tor wars 1.56 entrega 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	<conio.h>
+	<string.h>
+
+1667003235 c:\users\thomo\my drive\utn\cuatri 1\programacion\tp final\c-tor wars 1.56 entrega 2\gotoxy.h
+
+1667003231 source:g:\my drive\utn\cuatri 1\programacion\tp final\c-tor wars 1.56 entrega 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668714541 source:g:\my drive\utn\cuatri 1\programacion\tp final\c-tor wars 1.56 entrega 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	<conio.h>
+	<string.h>
+
+1667003235 g:\my drive\utn\cuatri 1\programacion\tp final\c-tor wars 1.56 entrega 2\gotoxy.h
+
